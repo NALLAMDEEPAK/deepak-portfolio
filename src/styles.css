@@ -96,7 +96,7 @@ li{
   }
   .sdiv{
     padding: 0.4rem;
-    box-shadow: 0 0 5px rgba(0,0,0,.4);
+    box-shadow: 0 0 5px rgb(237, 81, 24);
     border-radius:10px;
     width: 100%;  
   }
