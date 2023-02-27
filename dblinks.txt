@@ -1,0 +1,4 @@
+http://127.0.0.1:8080/apex/f?p=4500:1000:2455926336956701::NO:::
+
+
+file:///C:/oraclexe/app/oracle/doc/getting_started.htms
