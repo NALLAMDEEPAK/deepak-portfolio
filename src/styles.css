@@ -17,6 +17,11 @@ ul{
 li{
   padding:0 5%;
 }
+@media (max-width:500px) {
+  li{
+    padding:0 1%;
+  }
+}
 .n {
   background-color:rgb(237, 81, 24);
 
@@ -53,10 +58,10 @@ li{
 }
 .sdiv{
   padding: 0.4rem;
-  box-shadow: 0 0 5px rgba(0,0,0,.4);
+  box-shadow: 0 0 5px rgb(237, 81, 24);
   border-radius:10px;
   width: 100%;  
-  background-color: #121212;
+  background-color: #252424;
 
 }
 .sadiv{
@@ -191,7 +196,7 @@ li{
   .center-line{
     width: 2%;
     left:7%;
-    height: 120vh;
+    height: 100vh;
   }
   .center-img1{
     width: 35px;
