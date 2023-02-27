@@ -18,6 +18,9 @@ li{
   padding:0 5%;
 }
 @media (max-width:500px) {
+  ul{
+    margin-left: 1%;
+  }
   li{
     padding:0 1%;
   }
