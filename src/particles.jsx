@@ -143,7 +143,7 @@ function Particle(){
       "trail": {
         "delay": 0.005,
         "pauseOnStop": true,
-        "quantity": 5,
+        "quantity": 50,
         "particles": {
           "color": {
             "value": "#ff0000",
