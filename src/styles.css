@@ -286,6 +286,7 @@ li{
 }
 .form-control{
   outline: none !important;
+  width: 70% !important;
   /* box-shadow: none !important; */
   /* -webkit-box-shadow: none !important; */
 }
@@ -341,4 +342,26 @@ li{
 a > button{
   width: 100%;
   box-shadow: 0 2px 7px rgb(237, 81, 24);
+}
+input, textarea{
+    background-color:#121212 !important;
+    color: #fff !important;
+}
+::-webkit-input-placeholder { /* WebKit browsers */
+  color:    rgb(234, 128, 53) !important;
+  opacity: 0.5 !important;
+}
+.ups{
+  width:60px;height:60px;
+}
+@media (max-width:500px) {
+  .ups{
+    width:50px;height:50px;
+  }
+  .concen{
+    margin-left: 5%;
+  }
+  .form-control{
+    width: 85% !important;
+  }
 }

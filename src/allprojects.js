@@ -7,7 +7,8 @@ const allpros=[
         content:'Portfolio website built with React and CSS ',
         git:"",
         link:"",
-        style:"fade-up"
+        style:"fade-down-right"
+
     },
 
     {
@@ -17,7 +18,8 @@ const allpros=[
         content:'Website designed for International Telugu Conference using both Frontend and Backend',
         git:"",
         link:"https://www.itelugu.in",
-        style:"fade-left"
+        style:"fade-down"
+
     },
     {
         img:"To-Do",
@@ -26,7 +28,8 @@ const allpros=[
         content:'A simple To-Do List build using Node JS, Express JS and EJS',
         git:"",
         link:"",
-        style:"zoom-in-up"
+        style:"fade-down-left"
+
     },
     {
         img:"avenue.png",
@@ -45,7 +48,7 @@ const allpros=[
         content:'A simple website that plays the sounds of respective instruments"s sounds',
         git:"https://github.com/NALLAMDEEPAK/drums",
         link:"https://nallamdeepak.github.io/drums",
-        style:"fade-down-left"
+        style:"zoom-in-up"
     },
     {
         img:"dice.png",
@@ -54,7 +57,7 @@ const allpros=[
         content:'A web game Designed using HTML,CSS and JS that tells who won the dice game among two players',
         git:"https://github.com/NALLAMDEEPAK/DiceGame",
         link:"https://nallamdeepak.github.io/DiceGame",
-        style:"fade-down"
+        style:"fade-left"
     },
     {
         img:"tin.png",
@@ -63,7 +66,7 @@ const allpros=[
         content:'A cloned version of Tindog Website using HTML,CSS and Bootstrap',
         git:"https://github.com/NALLAMDEEPAK/tindog-clone",
         link:"https://nallamdeepak.github.io/tindog-clone",
-        style:"fade-down-right"
+        style:"fade-up"
     },
 
 ];
