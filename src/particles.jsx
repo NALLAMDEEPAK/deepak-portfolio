@@ -44,7 +44,7 @@ function Particle(){
     "zIndex": -1
   },
   "detectRetina": true,
-  "duration": 0,
+  "duration": 2000,
   "fpsLimit": 120,
   "interactivity": {
     "detectsOn": "window",
@@ -76,21 +76,21 @@ function Particle(){
     "modes": {
       "attract": {
         "distance": 200,
-        "duration": 0.4,
+        "duration": 4,
         "easing": "ease-out-quad",
         "factor": 1,
-        "maxSpeed": 50,
+        "maxSpeed": 10,
         "speed": 1
       },
       "bounce": {
         "distance": 200
       },
       "bubble": {
-        "distance": 200,
+        "distance": 2000,
         "duration": 0.4,
         "mix": false,
         "divs": {
-          "distance": 200,
+          "distance": 2000,
           "duration": 0.4,
           "mix": false,
           "selectors": []
