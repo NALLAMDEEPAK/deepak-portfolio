@@ -27,9 +27,13 @@ function App() {
       
       <N />
       <B />
+      <center><hr style={{borderTop:'dotted 10px',color:'rgb(217, 70, 16)',opacity:'0.8'}}></hr></center>
       <S />
+      <center><hr style={{borderTop:'dotted 10px',color:'rgb(217, 70, 16)',opacity:'0.8'}}></hr></center>
       <E />
+      <center><hr style={{borderTop:'dotted 10px',color:'rgb(217, 70, 16)',opacity:'0.8'}}></hr></center>
       <P />
+      <center><hr style={{borderTop:'dotted 10px',color:'rgb(217, 70, 16)',opacity:'0.8'}}></hr></center>
       <C />
       <D />
       <PA />
