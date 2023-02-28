@@ -371,6 +371,9 @@ hr{
   margin: 4% 0 !important; 
  }
 @media (max-width:500px) {
+  #home h5{
+    font-size: small;
+  }
   .ups{
     width:50px;height:50px;
   }
