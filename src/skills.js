@@ -8,7 +8,7 @@ function con(conn) {
 }
 export default function S() {
   return ( 
-    <div id="skills item" style={{marginTop:'4%'}} data-aos="fade-down">
+    <div id="skills">    <div style={{marginTop:'4%'}} className="item" data-aos="fade-down">
     <div className="skillstag item" data-aos="fade-right">
     <h2>
     <span>&lt;skills&gt;</span>
@@ -22,6 +22,7 @@ export default function S() {
     <span>&lt;/skills&gt;</span>
     </h2>
     </div>
-    </div>
+    </div></div>
+
   );
 }

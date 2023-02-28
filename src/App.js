@@ -8,6 +8,7 @@ import E from "./experience"
 import P from "./projects"
 import C from "./contact"
 import PA from "./particles"
+import D from "./drop"
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useState, useEffect } from "react";
@@ -30,6 +31,7 @@ function App() {
       <E />
       <P />
       <C />
+      <D />
       <PA />
     </div>
   );
