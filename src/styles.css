@@ -390,4 +390,19 @@ hr{
    width: 30%; 
    margin: 10% 0 !important; 
   }
+  ::-webkit-scrollbar:window-inactive{
+    width: 5px !important;
+  }
+  ::-webkit-scrollbar-track:window-inactive{
+    background: rgb(44, 42, 42) !important;
+  }
+  ::-webkit-scrollbar-thumb:window-inactive{
+    background-color:rgb(217, 70, 16) !important;
+    border-radius: 20px  !important; 
+    /* border: 3px solid orange; */
+  }
+  ::-webkit-scrollbar-thumb:window-inactive{
+    
+    background-color: #121212 !important;
+  }
 }
