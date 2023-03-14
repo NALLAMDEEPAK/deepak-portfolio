@@ -9,7 +9,7 @@ export default function Bio() {
         <center>
           <img
             src="bio img.jpg"
-            style={{ width: "200px", height: "200px", borderRadius: "100%",border:'10px solid white' }}
+            style={{ width: "200px", height: "200px", borderRadius: "100%",border:'10px solid white',marginTop:'10%' }}
             className="biopic"
             alt=""
           />
