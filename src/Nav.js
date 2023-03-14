@@ -3,9 +3,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.min";
 export default function Nav() {
   return (
-    <div className="n">
+    <div style={{position:'fixed',width:'100vw',zIndex:'10'}}>
+      <div className="n">
     <nav className="navbar navbar-expand-lg">
-    <a style={{marginLeft:'3%',fontSize:'200%'}} className="navbar-brand" href="#"><span style={{fontWeight:'700',letterSpacing:'4px'}}><span style={{color:"black"}}>D</span>EEPAK</span></a>
+    <a style={{marginLeft:'2%',fontSize:'200%'}} className="navbar-brand" href="#"><span style={{fontWeight:'700',letterSpacing:'4px'}}><span style={{color:"black"}}>D</span>EEPAK</span></a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
     </button>
@@ -30,5 +31,7 @@ export default function Nav() {
     </div>
     </nav>
     </div>
+    </div>
+    
   );
 }
