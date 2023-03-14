@@ -159,7 +159,7 @@ li{
 .center-right{
   float: right;
   margin-right:1000%;
-  box-shadow: 2px 2px 5px rgb(237, 81, 24);
+  box-shadow: 1.5px 1.5px 10px rgb(237, 81, 24);
   border-radius: 10px;
   padding: 1rem;
   position: relative;
@@ -170,8 +170,7 @@ li{
 .center-left{
   float: left;
   margin-left:1000%;
-  box-shadow: 2px 2px 5px rgb(237, 81, 24);
-  border-radius: 10px;
+  box-shadow: 1.5px 1.5px 10px rgb(237, 81, 24);  border-radius: 10px;
   padding: 1rem;
   position: relative;
   bottom:-10%;
@@ -336,7 +335,7 @@ li{
   position: relative;
   left: -5%;
   }
-}
+} 
 /* drop */
 .drop{
   display: flex;

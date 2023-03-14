@@ -21,16 +21,7 @@ const allpros=[
         style:"fade-down"
 
     },
-    {
-        img:"To-Do",
-        head:"To-Do",
-        her:" List",
-        content:'A simple To-Do List build using Node JS, Express JS and EJS',
-        git:"",
-        link:"",
-        style:"fade-down-left"
 
-    },
     {
         img:"avenue.png",
         head:"A",
@@ -38,7 +29,7 @@ const allpros=[
         content:'A Family Salon Website that gives all the information and prices of the services in the salon',
         git:"https://github.com/NALLAMDEEPAK/avenue",
         link:"https://nallamdeepak.github.io/avenue",
-        style:"fade-right"
+        style:"fade-down-left"
     },
 
     {
@@ -48,7 +39,7 @@ const allpros=[
         content:'A simple website that plays the sounds of respective instruments"s sounds',
         git:"https://github.com/NALLAMDEEPAK/drums",
         link:"https://nallamdeepak.github.io/drums",
-        style:"zoom-in-up"
+        style:"fade-up-right"
     },
     {
         img:"dice.png",
@@ -57,7 +48,7 @@ const allpros=[
         content:'A web game Designed using HTML,CSS and JS that tells who won the dice game among two players',
         git:"https://github.com/NALLAMDEEPAK/DiceGame",
         link:"https://nallamdeepak.github.io/DiceGame",
-        style:"fade-left"
+        style:"fade-up"
     },
     {
         img:"tin.png",
@@ -66,7 +57,7 @@ const allpros=[
         content:'A cloned version of Tindog Website using HTML,CSS and Bootstrap',
         git:"https://github.com/NALLAMDEEPAK/tindog-clone",
         link:"https://nallamdeepak.github.io/tindog-clone",
-        style:"fade-up"
+        style:"fade-up-left"
     },
 
 ];

@@ -4,7 +4,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 export default function Contact(){
     return(
     
-        <div id="contact">
+        <div style={{backgroundColor:'black'}} id="contact">
 
         <div className="row cf" style={{boxShadow: '0px 0px 10px rgb(237, 81, 24)',borderRadius:'20px',overflow:'hidden',flexWrap:'wrap-reverse'}}>
         <div className="col-lg-5" style={{padding:'0%',margin:' 4% 0 4% 4%'}}>
