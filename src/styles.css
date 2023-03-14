@@ -45,13 +45,15 @@ li{
 
 }
 /*      bio      */
-.biopic {
-  margin-top: 5%;
+.biopic{
+  margin-top:10%;
 }
+
 @media (max-width: 530px){
   .biopic {
-    margin-top: 13%;
+    margin-top: 30%;
   }
+
 }
 /*      skills     */
 .allsk{
