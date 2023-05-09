@@ -300,8 +300,7 @@ li{
 .form-control{
   outline: none !important;
   width: 70% !important;
-  /* box-shadow: none !important; */
-  /* -webkit-box-shadow: none !important; */
+
 }
 .conimg{
   display: flex;
