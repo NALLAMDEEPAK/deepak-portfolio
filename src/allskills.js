@@ -1,5 +1,10 @@
 const allskills = [
   {
+    img:"https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/flutter%20logo_tN2Ay9A.png",
+    name:"Flutter",
+    style:{backgroundColor:'#fff',borderRadius:'50%'}
+  },
+  {
     img: "html5.svg",
     name:"HTML5"
   },
@@ -46,6 +51,12 @@ const allskills = [
     style:{filter:'brightness(100%)'}
   },
   {
+    img:"https://datacorner.fr/wp-content/uploads/2019/04/flask.png",
+    name:"Flask",
+    // style:{filter:'brightness(100%)'}
+    style:{backgroundColor:'#fff',borderRadius:'50%'}
+  },
+  {
     img:"https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png?f=webp&w=128",
     name:"C"
   },
@@ -61,6 +72,7 @@ const allskills = [
     img:"https://cdn.iconscout.com/icon/free/png-256/postman-3628404-3032239.png?f=webp&w=128",
     name:"APIS",
     style:{backgroundColor:'#fff',borderRadius:'50%'}
-  }
+  },
+
 ];
 export default allskills;

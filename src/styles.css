@@ -126,11 +126,12 @@ li{
 /*---------------------------experience------------------------*/
 .center-line{
   width: 0.5%;
-  height: 100vh;
+  height: 140vh;
   background-color: rgb(237, 81, 24);
   border-radius: 20px;
   position: relative;
   left: 50%;
+  margin-bottom: 5%;
 }
 .center-img1{
   box-shadow: #373535 0px 0px 0px 4px, rgba(0, 0, 0, 0.08) 0px 2px 0px inset, rgba(0, 0, 0, 0.05) 0px 3px 0px 4px;
@@ -152,7 +153,20 @@ li{
   position: absolute;
   left:-230%;
   z-index: 2;
-  top: 60%;
+  top: 30%;
+  width: 43px;
+  background: black;
+  border-radius: 50%;
+  padding: 5px;
+}
+.center-img3{
+  box-shadow: #373535 0px 0px 0px 4px, rgba(0, 0, 0, 0.08) 0px 2px 0px inset, rgba(0, 0, 0, 0.05) 0px 3px 0px 4px;
+  color: rgb(237, 81, 24);
+  height: 43px;
+  position: absolute;
+  left:-230%;
+  z-index: 2;
+  top: 67%;
   width: 43px;
   background: black;
   border-radius: 50%;
@@ -180,11 +194,14 @@ li{
   background-color: #121212;
 
 }
+.backend{
+  margin-top: 60px !important;
+}
 @media (max-width:426px) and (min-width:377px) {
   .center-line{
     width: 2%;
     left:7%;
-    height: 120vh;
+    height: 170vh;
   }
   .center-img1{
     width: 35px;
@@ -195,7 +212,13 @@ li{
     width: 35px;
     height: 35px;
     left:-150%;
-    top: 60%;
+    top: 28%;
+  }
+  .center-img3{
+    width: 35px;
+    height: 35px;
+    left:-150%;
+    top: 68%;
   }
   .center-right{
    float: left;
@@ -212,7 +235,7 @@ li{
   .center-line{
     width: 2%;
     left:7%;
-    height: 100vh;
+    height: 170vh;
   }
   .center-img1{
     width: 35px;
@@ -223,7 +246,13 @@ li{
     width: 35px;
     height: 35px;
     left:-150%;
-    top: 60%;
+    top: 29%;
+  }
+  .center-img3{
+    width: 35px;
+    height: 35px;
+    left:-150%;
+    top: 70%;
   }
   .center-right{
    float: left;
@@ -239,7 +268,7 @@ li{
   .center-line{
     width: 2%;
     left:7%;
-    height: 145vh;
+    height: 210vh;
   }
   .center-img1{
     width: 35px;
@@ -250,7 +279,13 @@ li{
     width: 35px;
     height: 35px;
     left:-210%;
-    top: 60%;
+    top: 28%;
+  }
+  .center-img3{
+    width: 35px;
+    height: 35px;
+    left:-210%;
+    top: 68%;
   }
   .center-right{
    float: left;

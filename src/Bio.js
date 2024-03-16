@@ -20,7 +20,7 @@ export default function Bio() {
       </center>
       <center>
         <h5><span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>&lt;</span> A Developer who loves to build cool things <span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>/&gt;</span></h5>
-        <h5><span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>&lt;</span> Frontend Developer And Web Designer<span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>/&gt;</span></h5>
+        <h5><span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>&lt;</span> Flutter Developer, Web Developer And Web Designer<span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>/&gt;</span></h5>
         <h5><span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>&lt;</span>Self Learner<span style={{color:'rgb(237, 81, 24)',fontSize:'larger'}}>/&gt;</span></h5>
       </center>
     </div>
