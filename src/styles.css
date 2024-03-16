@@ -235,7 +235,7 @@ li{
   .center-line{
     width: 2%;
     left:7%;
-    height: 170vh;
+    height: 150vh;
   }
   .center-img1{
     width: 35px;
@@ -246,13 +246,13 @@ li{
     width: 35px;
     height: 35px;
     left:-150%;
-    top: 29%;
+    top: 26%;
   }
   .center-img3{
     width: 35px;
     height: 35px;
     left:-150%;
-    top: 70%;
+    top: 60%;
   }
   .center-right{
    float: left;
